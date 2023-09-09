@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Slappify",
+    "slug": "Slappify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./App/assets/C596FD34-2B97-4C39-ABFE-221C53D068EA.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./App/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./App/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./App/assets/favicon.png"
+    }
+  }
+}
